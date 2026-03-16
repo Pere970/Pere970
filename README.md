@@ -1,16 +1,70 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Pere970/Pere970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pere · Software Engineer
 
-Here are some ideas to get you started:
+**Building products. Occasionally breaking things.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter/X](https://img.shields.io/badge/peredotsol-%23000000.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/peredotsol)
+[![HouseKeepr](https://img.shields.io/badge/housekeepr.app-7c3aed?style=flat&logo=vercel&logoColor=white)](https://housekeepr.app)
+
+</div>
+
+---
+
+### 👨‍💻 About me
+
+Software engineer based in Spain. I build full-stack products — currently focused on **[HouseKeepr](https://housekeepr.app)**, a coliving & flatmate management app (expenses, tasks, bookings, chat).
+
+Previously spent time deep in Web3 — smart contracts, DeFi, DAOs, token mechanics. Now mostly writing Go backends and TypeScript frontends.
+
+---
+
+### 🚀 What I'm building
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[HouseKeepr](https://housekeepr.app)** | Coliving management — split expenses, tasks, bookings & more | Go · Next.js · PostgreSQL |
+
+---
+
+### 🛠 Tech I work with
+
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Infra & Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Web3 (previous)**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pere970&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pere970&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Building in public · housekeepr.app</sub>
+</div>
