@@ -4,7 +4,6 @@
 
 **Building products. Occasionally breaking things.**
 
-[![Twitter/X](https://img.shields.io/badge/peredotsol-%23000000.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/peredotsol)
 [![HouseKeepr](https://img.shields.io/badge/housekeepr.app-7c3aed?style=flat&logo=vercel&logoColor=white)](https://housekeepr.app)
 
 </div>
